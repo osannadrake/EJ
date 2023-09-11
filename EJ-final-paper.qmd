@@ -1,0 +1,282 @@
+---
+title: "Laws Change, Injustice Remains"
+subtitle: "Indigenous Representation in Mexican Fisheries Governance"
+author:
+  name: Osanna Drake
+  url: mailto::osanna.drake@duke.edu
+  orcid: 0000-0003-2375-174X
+date: today
+include-before-body:
+  text: ENVIRON 506
+format: 
+  html:
+    theme: cosmo
+    toc-location: left
+    code-fold: true
+editor: visual
+bibliography: references.bib
+csl: elsevier-vancouver.csl
+---
+
+#### [Visual abstract](https://dukeuniv.maps.arcgis.com/apps/instant/media/index.html?appid=020d10dfc9384b73942dd1fd082cecea)
+
+# Introduction
+
+In a world burdened by social-ecological harm, many look to legal systems in the pursuit of justice. Discriminatory law begets discriminatory practice, so improving legislation is a sensible solution. However, what happens when laws are amended, and injustice persists? What happens when a government does not respect its own regulations?
+
+According to the Mexican Constitution [@cámaradediputadosdelcongresodelaunión2022], indigenous peoples are granted full autonomy over territorial lands and waters[^1], and the nation's primary fisheries law [@cámaradediputadosdelcongresodelaunión2023] further encourages indigenous communities to use and manage fisheries according to their traditional practices, and guarantees they be consulted by the State regarding matters that could impact their territories[^2].
+
+[^1]: *"This Constitution recognizes and guarantees the right of indigenous peoples and communities to self-determination and, consequently, to the autonomy to (...) conserve and improve the habitat and preserve the integrity of their lands" and "preferential use and enjoyment of the natural resources of the places that the communities inhabit and occupy[, except those that correspond to the strategic areas, in terms of this Constitution]{.underline}"* [\@cámaradediputadosdelcongresodelaunión2022a](Art.%202) translated from Spanish, emphasis added):\
+    Note: These strategic areas entail communication (mail, telegraph, and radio) and energy (nuclear power, national electricity, and fossil fuel production). The government has used this exception to justify actions that bypass fundamental indigenous rights.
+
+[^2]: *"the right to access, use, and preferential enjoyment of the fishery and aquaculture resources of indigenous communities and peoples, under the terms of this Law, of the places they occupy and inhabit"* [@cámaradediputadosdelcongresodelaunión2023a]*(Art. 2)* translated from Spanish, emphasis added.*\
+    "All other things being equal, preference shall be given to requests from indigenous communities. [When the concession or permit may affect the habitat of an indigenous community, the authority must seek the opinion of the representatives of that community]{.underline}. To support the productive activities of indigenous communities, the Secretariat will promote programs that favor their sustainable development.  It will also provide them with stimuli, resources, and technologies to increase their productive capacities. The Secretariat shall establish the necessary procedures and mechanisms so that the titles or documents containing the concessions and permits are translated into the languages of the concessionaires or permittees belonging to the indigenous peoples, or to ensure that their content is interpreted for them."* [@cámaradediputadosdelcongresodelaunión2023a] *(Art. 43)* translated from Spanish, emphasis added.
+
+However, the Mexican government has a history of not upholding its own treaties regarding indigenous rights and sovereignty [@unofficeofthehighcommissionerforhumanrights2017] -- in some cases actively undermining them through violent means [@radwinmaxwell2023]-- so there is no guarantee that this legal right to autonomy will be respected in practice.
+
+How do indigenous fishers and the State navigate this dilemma? And in what ways does Mexico's involvement in fisheries governance support or subvert the self-determination of native peoples? This paper takes a procedural justice lens to explore how indigenous communities in Mexico are involved in decision-making surrounding their local fisheries.
+
+# Indigenous sovereignty
+
+For centuries, indigenous nations across the Americas have fought to resist colonial violence, particularly concerning the dispossession of ancestral lands and waters. The negative impacts of this legacy on the health, livelihoods, and cultural identity of native peoples continue to this day, and cannot be understated. It is widely recognized as a top priority in environmental justice (EJ) scholarship and activism, and 2022 marked the beginning of the UN decade for indigenous languages [@unesco2022a]. While some countries have shown substantial progress at the legal level, the question of whether these 'progressive' laws regarding indigenous sovereignty and environmental governance are implemented in a procedurally just manner, is not so clear.
+
+# Small-scale fisheries
+
+While terrestrial systems are often the focus of EJ research and advocacy, marine systems -- particularly fisheries - deserve attention. Small-scale fisheries (SSFs) are a crucial source of income in the developing world, employing over 90% of fishery personnel (\~97% of whom live in developing nations) [@unitednationsfoodandagricultureorganization2020] and 800 million people rely on SSFs to support their families [@theblue2023]. SSFs produce half of the world's catch [@unitednationsfoodandagricultureorganization2020], and their benefits extend far beyond the fish-workers themselves -- providing food security and nutrient-rich, affordable protein to 3 billion people [@theblue2023]. Despite these remarkable contributions, small-scale fishing communities often face extreme poverty and are routinely excluded from matters concerning environmental resources and development [@unitednationsfoodandagricultureorganization2020]. For indigenous fishers in particular, lack of autonomy over governance can have drastic ramifications. With 90% of fish stocks overexploited [@fisheries2022], and 90% of marine food overall jeopardized by environmental change [@cao2023], the UN considers indigenous knowledge and leadership to be essential for reversing this decline and implementing the sustainable, effective fisheries policy so desparately needed [@decade2022].
+
+# Mexico
+
+The discussion of indigenous representation in fisheries governance is often limited to island nations and western Canada, while others are overlooked. Mexico is a major fish producer on the international stage [@unfoodandagricultureorganization2022] with 40% of seafood coming from SSFs [@wintergalen2022]. It also holds the largest indigenous population of any country in the Americas [@benjamin2020], speaking 68 languages with 364 variants [@delval2022] and who are as genetically different from one other as someone from Germany versus Japan [@wade2014]. However, through centuries of colonization and forced assimilation aimed at disconnecting people from their indigenous relatives, heritage, languages, and cultures, the vast majority of Mexicans have both native and european ancestry, making indigeneity difficult (and highly political) to define. This ambiguity has been used to deny the existance of racism and colorism, since "there could be no prejudice if all Mexicans were the same" [@linthicum2022]. In fact, the government[^3] does not consider 'indigenous' to be a race at all, merely an ethnicity, and currently defines \"indigenous peoples\" as those living in an \"indigenous home\", where one or more residents speak an indigenous language [@gobiernodeméxico].
+
+[^3]: The National Institute for Indigenous Peoples [(INPI) website](https://www.gob.mx/inpi/que-hacemos) describes the agency as follows (emphasis original, translated from Spanish): \
+    ***\"The Institute is the authority of the Federal Executive Power in matters related to indigenous and Afro-Mexican peoples,** whose purpose is to define, regulate, design, establish, execute, guide, coordinate, promote, monitor and evaluate policies, programs, projects, strategies and public actions, to guarantee the exercise and implementation of the rights of indigenous and Afro-Mexican peoples, as well as their integral and sustainable development and the strengthening of their cultures and identities, in accordance with the provisions of the Political Constitution of the United Mexican States and in the international legal instruments to which the country is a party.\"*
+
+On the legal side, Mexico stands out for its revolutionary laws concerning indigenous rights - an outome of powerful indigenous resistance including the 1994 Zapatista uprising. In Chiapas, indigenous Zapatista communities are fully self-governing, with welcome signs stating that \"Here, the people command and the government obeys\" [@vidal2018], but this autonomy is not formally recognized by the Mexican State.
+
+![Photo by Connor Radnovich](https://cronkite.asu.edu/projects/buffett/chiapas/img/single/zapatistas7.jpg)
+
+In fact, Mexico regularly positions itself as a global leader in indigenous rights, with the UN's Special Rapporteur on the rights of indigenous people @tauli-corpuz2018 stating that
+
+> "Mexico has played an important role in supporting the advancement of the indigenous agenda at the international level, including the adoption of the United Nations Declaration on the Rights of Indigenous Peoples. At the national level, the recognition of indigenous peoples' rights to autonomy and self-determination in article 2 of the country's Constitution is a significant advancement, as are initiatives to facilitate their political participation. Nevertheless, more needs to be done to make these initiatives effective and address the root causes of indigenous peoples' marginalization." [@tauli-corpuz2018]
+
+This trend of beneficial progress on paper is accompanied by worsening conditions in reality. For the third year in a row, there has been an increase in violence against those (often indigenous) who assert their rights to protect and manage their lands and waters [@globalwitness2022]. In 2021 alone, 200 people were killed for protecting the environment, with countless more subjected to violent intimidation tactics by state and corporate actors. While attacks on environmental defenders is a global issue, more than 1/4 of murders took place in Mexico. With 54[^4] killed (more than 40% of whom were indigenous people), Mexico is considered the deadliest nation in the world for environmental activists [@globalwitness2022].
+
+[^4]:
+    | These individuals deserve to be honored and remembered. Here are their names:
+    | Braulio Pérez Sol
+    | Carlos Marqués Oyorzábal
+    | David Díaz Valdez
+    | Donato Bautista Avendaño
+    | Fabián Sombra Miranda
+    | Fabián Valencia Romero
+    | Federico de Jesús Gutiérrez
+    | Fidel Heras Cruz
+    | Flor de Jesús Hernández
+    | Gerardo Mendoza Reyes
+    | Gustavo Acosta Hurtado
+    | Heladio Molina Zavala
+    | Irma Galindo Barrios
+    | Isaías Elacio Palma
+    | Isidoro Hernández
+    | Jacinto Hernández Quiroz
+    | Jaime Jiménez Ruiz
+    | Jesús Solórzano Díaz
+    | Jordán Terjiño Luna
+    | José Ascensión Carrillo Vázquez
+    | José de Jesús Robledo Cruz
+    | José de Jesús Sánchez García
+    | José Santos Isaac Chávez
+    | Juan Justino Galaviz Cruz
+    | Lea Juárez Valenzuela
+    | Leobardo Hernández Regino
+    | Leocadio Galaviz Cruz
+    | Luis Urbano Domínguez Mendoza
+    | Manuel Cartas Pérez
+    | Manuel Hidalgo Vázquez
+    | Marcelino Álvarez González
+    | Marco Antonio Arcos Fuentes
+    | Marco Antonio Jiménez de la Torre
+    | Marcos Quiroz Riaño
+    | María de Jesús Gómez Vega
+    | Martín Hurtado Flores
+    | Mayolo Quiroz Barrios
+    | Miguel Bautista Avendaño
+    | Narciso López Vasquez
+    | Noé Robles Cruz
+    | Oliverio Martínez Merino
+    | Pedro Lunez Pérez
+    | Ramiro Rodríguez Santiz
+    | Ramiro Ventura Apolonio
+    | Raymundo Robles Riaño
+    | Rodrigo Morales Vázquez
+    | Rolando Pérez González
+    | Simón Pedro Pérez López
+    | Tomás Rojo Valencia
+    | Vicente Suástegui Muñoz
+    | Víctor Manuel Vázquez de la Torre
+
+This sentiment of disconnect between how justice is implemented in theory versus practice is echoed by other global leaders:
+
+> \"The fact that countries such as the Philippines, Colombia, Brazil and **Mexico** have progressive constitutional, legislative or judicial affirmations of indigenous peoples\' rights but also have the highest levels of reported killings highlights the glaring gap between the legal recognition and practical realization of rights. As a result, even where legal protections theoretically exist, mobilizations and direct action --- such as blockading rivers, roads or airports --- are often the only avenues available to indigenous peoples when faced with imminent threats of irreversible harm to their well-being and survival arising from the accelerating expansion of imposed extractive and agribusiness projects and protected areas. Rather than seeing this response as an indicator of the urgency of altering their engagement paradigms and pursuing rights-compliant models of development, States, companies and conservation organizations have typically retaliated by using force, generating conflict, or filing legal charges against indigenous representatives.\" [@unitednationsdepartmentofeconomicandsocialaffairs2021]
+
+# A matter of life and death
+
+Small-scale fisheries and indigenous sovereignty are two of the most pressing global issues in sustainability and justice, and their intersection makes Mexico is an important case.
+
+-   My research question -- Are these laws implemented in a just way?
+
+-   My approach to answering it - contemporary case studies (3 cases in different parts of the country, different bodies of water, different indigenous peoples), use procedural justice lens, examine the degree of active participation and meaningful involvement in decision-making.
+
+-   General outcome - how indigenous peoples and the state navigate these laws
+
+# Case Studies
+
+## Triangle of Resistance
+
+-   Overview
+
+    -   Location/geography
+
+        -   (things relevant to fishery and my research question)
+
+    -   History/culture
+
+        -   (things relevant to fishery and my research question)
+
+    -   Economic/political context
+
+        -   (things relevant to fishery and my research question)
+
+-   Governance of fishery
+
+    -   who's involved and how? (within and beyond indigenous community)
+
+    -   barriers to active participation/meaningful involvement
+
+-   Resistence strategies and advocacy efforts
+
+    -   actions
+
+    -   outcomes
+
+-   Current status
+
+    -   justice implications
+
+    -   introduce next case
+
+## Gulf of California
+
+-   Overview
+
+    -   Location/geography
+
+        -   (things relevant to fishery and my research question)
+
+    -   History/culture
+
+        -   (things relevant to fishery and my research question)
+
+    -   Economic/political context
+
+        -   (things relevant to fishery and my research question)
+
+-   Governance of fishery
+
+    -   who's involved and how? (within and beyond indigenous community)
+
+    -   barriers to active participation/meaningful involvement
+
+-   Resistence strategies and advocacy efforts
+
+    -   actions
+
+    -   outcomes
+
+-   Current status
+
+    -   justice implications
+
+    -   introduce next case
+
+## Yucatán Peninsula
+
+-   Overview
+
+    -   Location/geography
+
+        -   (things relevant to fishery and my research question)
+
+    -   History/culture
+
+        -   (things relevant to fishery and my research question)
+
+    -   Economic/political context
+
+        -   (things relevant to fishery and my research question)
+
+-   Governance of fishery
+
+    -   who's involved and how? (within and beyond indigenous community)
+
+    -   barriers to active participation/meaningful involvement
+
+-   Resistence strategies and advocacy efforts
+
+    -   actions
+
+    -   outcomes
+
+-   Current status
+
+    -   justice implications
+
+    -   introduce next case
+
+# Results
+
+## Similarities
+
+-   findings
+
+## Differences
+
+-   findings
+
+## Overall
+
+-   I found
+
+# Discussion
+
+## Interpretation of results
+
+-   situate case studies within a larger narrative.
+
+<!-- -->
+
+-   I found x which means y
+
+-   
+
+## Broader contributions
+
+-   implications for ej and the world at large
+
+-   current work being done (including constitutional reform?)
+
+-   Strengths/value of this info
+
+    -   Global context of indigenous people and the state in environmental management
+
+    -   It begins with a historical overview, lending context to these questions,
+
+    -   This has considerable social and environmental implications that point to injustice.
+
+As stated by a Speaker at the IWGIA:
+
+> 'The right to autonomy of indigenous peoples is no donation - autonomy isn't ever given - autonomy is obtained through perseverance in the fight to obtain it' [@iwgia2019]
+
+# References
+
+# Appendix
