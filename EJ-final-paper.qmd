@@ -13,12 +13,12 @@ format:
     theme: cosmo
     toc-location: left
     code-fold: true
+linestretch: 2
 editor: visual
 bibliography: references.bib
-csl: elsevier-vancouver.csl
 ---
 
-#### [Visual abstract](https://dukeuniv.maps.arcgis.com/apps/instant/media/index.html?appid=020d10dfc9384b73942dd1fd082cecea)
+### [Visual abstract](https://dukeuniv.maps.arcgis.com/apps/instant/media/index.html?appid=020d10dfc9384b73942dd1fd082cecea)
 
 # Introduction
 
@@ -42,11 +42,15 @@ For centuries, indigenous nations across the Americas have fought to resist colo
 
 # Small-scale fisheries
 
-While terrestrial systems are often the focus of EJ research and advocacy, marine systems -- particularly fisheries - deserve attention. Small-scale fisheries (SSFs) are a crucial source of income in the developing world, employing over 90% of fishery personnel (\~97% of whom live in developing nations) [@unitednationsfoodandagricultureorganization2020] and 800 million people rely on SSFs to support their families [@theblue2023]. SSFs produce half of the world's catch [@unitednationsfoodandagricultureorganization2020], and their benefits extend far beyond the fish-workers themselves -- providing food security and nutrient-rich, affordable protein to 3 billion people [@theblue2023]. Despite these remarkable contributions, small-scale fishing communities often face extreme poverty and are routinely excluded from matters concerning environmental resources and development [@unitednationsfoodandagricultureorganization2020]. For indigenous fishers in particular, lack of autonomy over governance can have drastic ramifications. With 90% of fish stocks overexploited [@fisheries2022], and 90% of marine food overall jeopardized by environmental change [@cao2023], the UN considers indigenous knowledge and leadership to be essential for reversing this decline and implementing the sustainable, effective fisheries policy so desparately needed [@decade2022].
+While terrestrial systems are often the focus of EJ research and advocacy, marine systems -- particularly fisheries - deserve attention. Small-scale fisheries (SSFs) are a crucial source of income in the developing world, employing over 90% of fishery personnel (\~97% of whom live in developing nations) [@unitednationsfoodandagricultureorganization2020] and 800 million people rely on SSFs to support their families [@theblue2023]. SSFs produce half of the world's catch [@unitednationsfoodandagricultureorganization2020], and their benefits extend far beyond the fish-workers themselves -- providing food security and nutrient-rich, affordable protein to 3 billion people [@theblue2023].
+
+Despite these remarkable contributions, small-scale fishing communities often face extreme poverty and are routinely excluded from matters concerning environmental resources and development [@unitednationsfoodandagricultureorganization2020]. For indigenous fishers in particular, lack of autonomy over governance can have drastic ramifications. With 90% of fish stocks overexploited [@fisheries2022], and 90% of marine food overall jeopardized by environmental change [@cao2023], the UN considers indigenous knowledge and leadership to be essential for reversing this decline and implementing the sustainable, effective fisheries policy so desparately needed [@decade2022].
 
 # Mexico
 
-The discussion of indigenous representation in fisheries governance is often limited to island nations and western Canada, while others are overlooked. Mexico is a major fish producer on the international stage [@unfoodandagricultureorganization2022] with 40% of seafood coming from SSFs [@wintergalen2022]. It also holds the largest indigenous population of any country in the Americas [@benjamin2020], speaking 68 languages with 364 variants [@delval2022] and who are as genetically different from one other as someone from Germany versus Japan [@wade2014]. However, through centuries of colonization and forced assimilation aimed at disconnecting people from their indigenous relatives, heritage, languages, and cultures, the vast majority of Mexicans have both native and european ancestry, making indigeneity difficult (and highly political) to define. This ambiguity has been used to deny the existance of racism and colorism, since "there could be no prejudice if all Mexicans were the same" [@linthicum2022]. In fact, the government[^3] does not consider 'indigenous' to be a race at all, merely an ethnicity, and currently defines \"indigenous peoples\" as those living in an \"indigenous home\", where one or more residents speak an indigenous language [@gobiernodeméxico].
+The discussion of indigenous representation in fisheries governance is often limited to island nations and western Canada, while others are overlooked. Mexico is a major fish producer on the international stage [@unfoodandagricultureorganization2022] with 40% of seafood coming from SSFs [@wintergalen2022]. It also holds the largest indigenous population of any country in the Americas [@benjamin2020], speaking 68 languages with 364 variants [@delval2022] and who are as genetically different from one other as someone from Germany versus Japan [@wade2014].
+
+However, through centuries of colonization and forced assimilation aimed at disconnecting people from their indigenous relatives, heritage, languages, and cultures, the vast majority of Mexicans have both native and european ancestry, making indigeneity difficult (and highly political) to define. This ambiguity has been used to deny the existance of racism and colorism, since "there could be no prejudice if all Mexicans were the same" [@linthicum2022]. In fact, the government[^3] does not consider 'indigenous' to be a race at all, merely an ethnicity, and currently defines \"indigenous peoples\" as those living in an \"indigenous home\", where one or more residents speak an indigenous language [@gobiernodeméxico].
 
 [^3]: The National Institute for Indigenous Peoples [(INPI) website](https://www.gob.mx/inpi/que-hacemos) describes the agency as follows (emphasis original, translated from Spanish): \
     ***\"The Institute is the authority of the Federal Executive Power in matters related to indigenous and Afro-Mexican peoples,** whose purpose is to define, regulate, design, establish, execute, guide, coordinate, promote, monitor and evaluate policies, programs, projects, strategies and public actions, to guarantee the exercise and implementation of the rights of indigenous and Afro-Mexican peoples, as well as their integral and sustainable development and the strengthening of their cultures and identities, in accordance with the provisions of the Political Constitution of the United Mexican States and in the international legal instruments to which the country is a party.\"*
@@ -121,162 +125,10 @@ This sentiment of disconnect between how justice is implemented in theory versus
 
 # A matter of life and death
 
-Small-scale fisheries and indigenous sovereignty are two of the most pressing global issues in sustainability and justice, and their intersection makes Mexico is an important case.
+Small-scale fisheries and indigenous sovereignty are two of the most pressing global issues in sustainability and justice, and their intersection in Mexico is of considerable scholarly importance. Alarmingly, there has been almost no research on this topic of how indigenous peoples and the Mexican State navigate fisheries governance. Further study is needed to investigate this challenge and work towards a just, livable future.
 
--   My research question -- Are these laws implemented in a just way?
-
--   My approach to answering it - contemporary case studies (3 cases in different parts of the country, different bodies of water, different indigenous peoples), use procedural justice lens, examine the degree of active participation and meaningful involvement in decision-making.
-
--   General outcome - how indigenous peoples and the state navigate these laws
-
-# Case Studies
-
-## Triangle of Resistance
-
--   Overview
-
-    -   Location/geography
-
-        -   (things relevant to fishery and my research question)
-
-    -   History/culture
-
-        -   (things relevant to fishery and my research question)
-
-    -   Economic/political context
-
-        -   (things relevant to fishery and my research question)
-
--   Governance of fishery
-
-    -   who's involved and how? (within and beyond indigenous community)
-
-    -   barriers to active participation/meaningful involvement
-
--   Resistence strategies and advocacy efforts
-
-    -   actions
-
-    -   outcomes
-
--   Current status
-
-    -   justice implications
-
-    -   introduce next case
-
-## Gulf of California
-
--   Overview
-
-    -   Location/geography
-
-        -   (things relevant to fishery and my research question)
-
-    -   History/culture
-
-        -   (things relevant to fishery and my research question)
-
-    -   Economic/political context
-
-        -   (things relevant to fishery and my research question)
-
--   Governance of fishery
-
-    -   who's involved and how? (within and beyond indigenous community)
-
-    -   barriers to active participation/meaningful involvement
-
--   Resistence strategies and advocacy efforts
-
-    -   actions
-
-    -   outcomes
-
--   Current status
-
-    -   justice implications
-
-    -   introduce next case
-
-## Yucatán Peninsula
-
--   Overview
-
-    -   Location/geography
-
-        -   (things relevant to fishery and my research question)
-
-    -   History/culture
-
-        -   (things relevant to fishery and my research question)
-
-    -   Economic/political context
-
-        -   (things relevant to fishery and my research question)
-
--   Governance of fishery
-
-    -   who's involved and how? (within and beyond indigenous community)
-
-    -   barriers to active participation/meaningful involvement
-
--   Resistence strategies and advocacy efforts
-
-    -   actions
-
-    -   outcomes
-
--   Current status
-
-    -   justice implications
-
-    -   introduce next case
-
-# Results
-
-## Similarities
-
--   findings
-
-## Differences
-
--   findings
-
-## Overall
-
--   I found
-
-# Discussion
-
-## Interpretation of results
-
--   situate case studies within a larger narrative.
-
-<!-- -->
-
--   I found x which means y
-
--   
-
-## Broader contributions
-
--   implications for ej and the world at large
-
--   current work being done (including constitutional reform?)
-
--   Strengths/value of this info
-
-    -   Global context of indigenous people and the state in environmental management
-
-    -   It begins with a historical overview, lending context to these questions,
-
-    -   This has considerable social and environmental implications that point to injustice.
-
-As stated by a Speaker at the IWGIA:
+To conclude, the state of indigenous rights to govern ancestral territories is not as rosy as the laws might suggest. In the words of a speaker at the International Working Group for Indigenous Affairs:
 
 > 'The right to autonomy of indigenous peoples is no donation - autonomy isn't ever given - autonomy is obtained through perseverance in the fight to obtain it' [@iwgia2019]
 
 # References
-
-# Appendix
